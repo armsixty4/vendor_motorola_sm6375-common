@@ -380,6 +380,7 @@ PRODUCT_PACKAGES += \
     liblqe \
     libmdmcutback \
     libmdsprpc \
+    libminkdescriptor \
     libminksocket \
     libmotext_inf \
     libnetmgr \
@@ -387,6 +388,7 @@ PRODUCT_PACKAGES += \
     libnetmgr_nr_fusion \
     libnetmgr_rmnet_ext \
     libnlnetmgr \
+    liboemcrypto \
     libops \
     libpdmapper \
     libpdnotifier \
@@ -439,6 +441,7 @@ PRODUCT_PACKAGES += \
     libsystem_health_mon \
     libtime_genoff \
     libtinyxml2_1 \
+    libtrustedapploader \
     libwms \
     libwqe \
     libwvhidl \
